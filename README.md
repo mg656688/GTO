@@ -25,6 +25,6 @@
     - ['average fitness', 'std fitness', 'worst fitness', 'best fitness', 'ideal fitness', 'time taken']
   - loss_curves.CSV shows the loss curve values through 500 iteration for each optimization function 
 
-[Source Code](https://github.com/ZongSingHuang/Artificial-Gorilla-Troops-Optimizer).
+[Source Code](https://github.com/ZongSingHuang/Artificial-Gorilla-Troops-Optimizer)
 
-[Artificial gorilla troops optimizer paper](https://onlinelibrary.wiley.com/doi/full/10.1002/int.22535).
+[Artificial gorilla troops optimizer paper](https://onlinelibrary.wiley.com/doi/full/10.1002/int.22535)
