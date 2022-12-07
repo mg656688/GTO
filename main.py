@@ -10,9 +10,9 @@ import bound_X
 import ideal_F
 import dimension
 
-D = 30
-G = 500
-P = 30
+D = 30   # Dimension
+G = 500  # Gorillas (iterations)
+P = 30   # Pop
 run_times = 50
 table = pd.DataFrame(np.zeros([6, 36]), index=['avg', 'std', 'worst', 'best', 'ideal', 'time'])
 loss_curves = np.zeros([G, 36])

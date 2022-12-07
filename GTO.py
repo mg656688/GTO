@@ -125,11 +125,3 @@ class GTO:
 
             # The Best Fitness
             self.loss_curve[g] = self.gbest_F
-
-    def plot_curve(self):
-        plt.figure()
-        plt.title('loss curve [' + str(round(self.gBest_curve[-1], 3)) + ']')
-        plt.plot(self.gBest_curve, label='loss')
-        plt.grid()
-        plt.legend()
-        plt.show()
