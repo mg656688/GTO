@@ -32,3 +32,7 @@
 [Source Code](https://github.com/ZongSingHuang/Artificial-Gorilla-Troops-Optimizer)
 
 [Artificial gorilla troops optimizer paper](https://onlinelibrary.wiley.com/doi/full/10.1002/int.22535)
+
+[NSL-KDD dataset](https://www.kaggle.com/datasets/hassan06/nslkdd)
+
+[Notebook on kaggle](https://www.kaggle.com/code/mostafaghanem96/network-intrusion-with-gto-optimizer/notebook)
