@@ -25,6 +25,10 @@
     - ['average fitness', 'std fitness', 'worst fitness', 'best fitness', 'ideal fitness', 'time taken']
   - loss_curves.CSV shows the loss curve values through 500 iteration for each optimization function 
 
+**update 
+
+> We used the Gorilla Troop Optimizer (GTO) as an optimizer for training a simple NN with (NSL-KDD) Network intrusion dataset, in other words we used it find the best weights to achieve a higher accuracy and return the best fitness function value which is the loss function in our case.
+
 [Source Code](https://github.com/ZongSingHuang/Artificial-Gorilla-Troops-Optimizer)
 
 [Artificial gorilla troops optimizer paper](https://onlinelibrary.wiley.com/doi/full/10.1002/int.22535)
